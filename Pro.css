@@ -249,6 +249,7 @@ body{
     border-radius:5px;
     cursor:pointer;
     outline:none;
+    height:30px;
     
 }
 .submit-btn:hover{
