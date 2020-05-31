@@ -87,6 +87,18 @@ body{
 .Home-1 ul li a:hover{
     transform:translate(0,-5px);
 }
+.fb:hover{
+   background-color: #3b5999;
+}
+.ld:hover{
+    background-color:#0077B5;
+}
+.tw:hover{
+    background-color:#55acee;
+}
+.ig:hover{
+    background-color:#e4405f;
+}
 .Home-2{
     float:left;
     width:25%;
